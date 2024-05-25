@@ -1,0 +1,17 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.s1{
+    display: flex;
+    justify-content: center;
+    height: 1000px;
+    width: 100%;
+    
+}
+.dados{
+    
+    height: 100%;
+    width: 70%;
+}
